@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "title": "Title",
+  "name": "Sign-up to Foodgao apps",
+  "entermobilenumber": "Enter mobile number",
+  "selectlanguage": "Select language",
+  "selectonefrombelow": "Select one from below",
+  "continu": "Continue",
+  "welcome": "Welcome Back",
+  "enteryour": "Enter your hpone number to continue.",
+  "enterlogout": "Are you sure you want to logout?",
+  "subtitle": "Subtitle"
+}
